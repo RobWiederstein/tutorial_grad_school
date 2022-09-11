@@ -1,4 +1,4 @@
-# Graduate School<img src="./images/hex-iu.png" align="right" width="120"/>
+# IU School of Mathematics<img src="./images/hex-iu.png" align="right" width="120"/>
 
 | Department| Number | Credits | Title  |
 |:-----------:|:-----:|:-----------:|------|
