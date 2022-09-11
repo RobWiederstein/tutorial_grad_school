@@ -1,4 +1,4 @@
-# Graduate School<img src="https://raw.githubusercontent.com/ThinkR-open/golem/master/inst/rstudio/templates/project/golem.png" align="right" width="120"/>
+# Graduate School<img src="./images/hex-iu.png" align="right" width="120"/>
 
 | Department| Number | Credits | Title  |
 |:-----------:|:-----:|:-----------:|------|
